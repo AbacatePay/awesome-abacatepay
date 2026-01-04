@@ -10,6 +10,7 @@ Tem alguma nova ideia e quer adicionar aqui? Apenas faça um [PR](https://github
    - [AbacatePay Twitter/X](https://github.com/almeidazs/awesome-abacatepay#abacatepay-twitterx)
    - [API](https://github.com/almeidazs/awesome-abacatepay#api)
    - [CLI](https://github.com/almeidazs/awesome-abacatepay#cli)
+   - [Discord](https://github.com/almeidazs/awesome-abacatepay#discord)
 
 - [A.I](https://github.com/almeidazs/awesome-abacatepay#ai)
    - [Abacate Chat](https://github.com/almeidazs/awesome-abacatepay#abacate-chat)
@@ -52,6 +53,7 @@ Links importantes da *Abacate Pay 🥑*.
 - [AbacatePay Twitter/X](https://x.com/abacatepay) - Conta oficial da AbacatePay no X (Twitter).
 - [API](https://api.abacatepay.com) - URL oficial da API da AbacatePay.
 - [CLI](https://github.com/AbacatePay/abacatepay-cli) - AbacatePay CLI para rodar os seus Webhooks localmente. 
+- [Discord](https://discord.com/invite/CP57mm7EFk) - Servidor oficial da AbacatePay.
 
 ## AI
 
