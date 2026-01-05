@@ -38,6 +38,8 @@ Tem alguma nova ideia e quer adicionar aqui? Apenas faça um [PR](https://github
    - [Canal da AbacatePay](https://github.com/almeidazs/awesome-abacatepay#canal-da-abacatepay)
    - [Analisando SaaS: 20 milhões em 6 meses](https://github.com/almeidazs/awesome-abacatepay#analisando-saas-20-milhões-em-6-meses)
    - [O que eu acho dos SaaS da Bolha Dev](https://github.com/almeidazs/awesome-abacatepay#o-que-eu-acho-dos-saas-da-bolha-dev)
+   - [Usei a AbacatePay no meu Micro SaaS e foi incrível](https://github.com/almeidazs/awesome-abacatepay#usei-a-abacatepay-no-meu-micro-saas-e-foi-incrivel)
+   - [Usando AbacatePay em .NET API](https://github.com/almeidazs/awesome-abacatepay#usando-abacatepay-em-net-api)
 
 - [Posts](https://github.com/almeidazs/awesome-abacatepay#posts)
    - [Gerando Pagamentos via Pix com a AbacatePay](https://github.com/almeidazs/awesome-abacatepay#gerando-pagamentos-via-pix-com-a-abacatepay)
@@ -96,6 +98,8 @@ URL para o canal da *AbacatePay* no YoutTube e vídeos que citam a *Abacate*.
 - [Canal da AbacatePay](https://www.youtube.com/@abacatepay) - Canal oficial da AbacatePay no YouTube.
 - [Analisando SaaS: 20 milhões em 6 meses](https://youtu.be/JGf1wTuK8Xc?si=Uw1g4QcQjIxZ-jV4) - [Augusto Galego](https://www.youtube.com/@GutoGalego) analisando a AbacatePay.
 - [O que eu acho dos SaaS da Bolha Dev](https://youtu.be/PSfCku4cyVw?si=qFE28zzF_4GA5wlO) - Vídeo onde a [Fernanda Kipper](https://www.youtube.com/@kipperdev) fala sobre e menciona a AbacatePay.
+- [Usei a AbacatePay no meu Micro SaaS e foi incrível](https://youtu.be/9bi7IwrYUAk?si=9VvOCo2Vku1YSPyh) - [Cavalheri Dev](https://www.youtube.com/@CavalheriDev) mostra que ele integrou de forma simples e rápida a AbacatePay em um micro SaaS dele.
+- [Usando AbacatePay em .NET API](https://youtu.be/3WFB9ukYRoc?si=nex-Tdir9T1JqRC4) - [Ismael Ash](https://www.youtube.com/@oismaelash) mostra como integrar a AbacatePay usando .NET.
 
 ## Posts
 
