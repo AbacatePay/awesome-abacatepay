@@ -2,47 +2,47 @@
 
 *Uma lista selecionada de itens relacionados a AbacatePay.*
 
-Tem alguma nova ideia e quer adicionar aqui? Apenas faça um [PR](https://github.com/almeidazs/awesome-abacatepay/pulls) (Pull Request) e adicione ela aqui!
+Tem alguma nova ideia e quer adicionar aqui? Apenas faça um [PR](https://github.com/AbacatePay/awesome-abacatepay/pulls) (Pull Request) e adicione ela aqui!
 
-- [Core](https://github.com/almeidazs/awesome-abacatepay#core)
-   - [Documentação](https://github.com/almeidazs/awesome-abacatepay#documentação)
-   - [Website Oficial](https://github.com/almeidazs/awesome-abacatepay#website-oficial)
-   - [AbacatePay Twitter/X](https://github.com/almeidazs/awesome-abacatepay#abacatepay-twitterx)
-   - [API](https://github.com/almeidazs/awesome-abacatepay#api)
-   - [CLI](https://github.com/almeidazs/awesome-abacatepay#cli)
-   - [Discord](https://github.com/almeidazs/awesome-abacatepay#discord)
+- [Core](https://github.com/AbacatePay/awesome-abacatepay#core)
+   - [Documentação](https://github.com/AbacatePay/awesome-abacatepay#documentação)
+   - [Website Oficial](https://github.com/AbacatePay/awesome-abacatepay#website-oficial)
+   - [AbacatePay Twitter/X](https://github.com/AbacatePay/awesome-abacatepay#abacatepay-twitterx)
+   - [API](https://github.com/AbacatePay/awesome-abacatepay#api)
+   - [CLI](https://github.com/AbacatePay/awesome-abacatepay#cli)
+   - [Discord](https://github.com/AbacatePay/awesome-abacatepay#discord)
 
-- [A.I](https://github.com/almeidazs/awesome-abacatepay#ai)
-   - [Abacate Chat](https://github.com/almeidazs/awesome-abacatepay#abacate-chat)
-   - [LLMs.txt](https://github.com/almeidazs/awesome-abacatepay#llmstxt)
+- [A.I](https://github.com/AbacatePay/awesome-abacatepay#ai)
+   - [Abacate Chat](https://github.com/AbacatePay/awesome-abacatepay#abacate-chat)
+   - [LLMs.txt](https://github.com/AbacatePay/awesome-abacatepay#llmstxt)
 
-- [SDKs](https://github.com/almeidazs/awesome-abacatepay#sdks)
-   - [Node.js](https://github.com/almeidazs/awesome-abacatepay#nodejs)
-   - [Python](https://github.com/almeidazs/awesome-abacatepay#python)
-   - [Java](https://github.com/almeidazs/awesome-abacatepay#java)
-   - [PHP](https://github.com/almeidazs/awesome-abacatepay#php)
-   - [Ruby](https://github.com/almeidazs/awesome-abacatepay#ruby)
-   - [Go](https://github.com/almeidazs/awesome-abacatepay#go)
-   - [Rust](https://github.com/almeidazs/awesome-abacatepay#rust)
-   - [Elixir](https://github.com/almeidazs/awesome-abacatepay#elixir)
+- [SDKs](https://github.com/AbacatePay/awesome-abacatepay#sdks)
+   - [Node.js](https://github.com/AbacatePay/awesome-abacatepay#nodejs)
+   - [Python](https://github.com/AbacatePay/awesome-abacatepay#python)
+   - [Java](https://github.com/AbacatePay/awesome-abacatepay#java)
+   - [PHP](https://github.com/AbacatePay/awesome-abacatepay#php)
+   - [Ruby](https://github.com/AbacatePay/awesome-abacatepay#ruby)
+   - [Go](https://github.com/AbacatePay/awesome-abacatepay#go)
+   - [Rust](https://github.com/AbacatePay/awesome-abacatepay#rust)
+   - [Elixir](https://github.com/AbacatePay/awesome-abacatepay#elixir)
 
-- [SDKs (Mobile)](https://github.com/almeidazs/awesome-abacatepay#sdks-mobile)
-   - [Kotlin](https://github.com/almeidazs/awesome-abacatepay#kotlin)
-   - [Swift](https://github.com/almeidazs/awesome-abacatepay#swift)
+- [SDKs (Mobile)](https://github.com/AbacatePay/awesome-abacatepay#sdks-mobile)
+   - [Kotlin](https://github.com/AbacatePay/awesome-abacatepay#kotlin)
+   - [Swift](https://github.com/AbacatePay/awesome-abacatepay#swift)
 
-- [Tipagens para AbacatePay API](https://github.com/almeidazs/awesome-abacatepay#tipagens-para-abacatepay-api)
-   - [TypeScript](https://github.com/almeidazs/awesome-abacatepay#typescript)
-   - [Golang](https://github.com/almeidazs/awesome-abacatepay#golang)
+- [Tipagens para AbacatePay API](https://github.com/AbacatePay/awesome-abacatepay#tipagens-para-abacatepay-api)
+   - [TypeScript](https://github.com/AbacatePay/awesome-abacatepay#typescript)
+   - [Golang](https://github.com/AbacatePay/awesome-abacatepay#golang)
 
-- [Vídeos (YouTube)](https://github.com/almeidazs/awesome-abacatepay#vídeos-youtube)
-   - [Canal da AbacatePay](https://github.com/almeidazs/awesome-abacatepay#canal-da-abacatepay)
-   - [Analisando SaaS: 20 milhões em 6 meses](https://github.com/almeidazs/awesome-abacatepay#analisando-saas-20-milhões-em-6-meses)
-   - [O que eu acho dos SaaS da Bolha Dev](https://github.com/almeidazs/awesome-abacatepay#o-que-eu-acho-dos-saas-da-bolha-dev)
-   - [Usei a AbacatePay no meu Micro SaaS e foi incrível](https://github.com/almeidazs/awesome-abacatepay#usei-a-abacatepay-no-meu-micro-saas-e-foi-incrivel)
-   - [Usando AbacatePay em .NET API](https://github.com/almeidazs/awesome-abacatepay#usando-abacatepay-em-net-api)
+- [Vídeos (YouTube)](https://github.com/AbacatePay/awesome-abacatepay#vídeos-youtube)
+   - [Canal da AbacatePay](https://github.com/AbacatePay/awesome-abacatepay#canal-da-abacatepay)
+   - [Analisando SaaS: 20 milhões em 6 meses](https://github.com/AbacatePay/awesome-abacatepay#analisando-saas-20-milhões-em-6-meses)
+   - [O que eu acho dos SaaS da Bolha Dev](https://github.com/AbacatePay/awesome-abacatepay#o-que-eu-acho-dos-saas-da-bolha-dev)
+   - [Usei a AbacatePay no meu Micro SaaS e foi incrível](https://github.com/AbacatePay/awesome-abacatepay#usei-a-abacatepay-no-meu-micro-saas-e-foi-incrivel)
+   - [Usando AbacatePay em .NET API](https://github.com/AbacatePay/awesome-abacatepay#usando-abacatepay-em-net-api)
 
-- [Posts](https://github.com/almeidazs/awesome-abacatepay#posts)
-   - [Gerando Pagamentos via Pix com a AbacatePay](https://github.com/almeidazs/awesome-abacatepay#gerando-pagamentos-via-pix-com-a-abacatepay)
+- [Posts](https://github.com/AbacatePay/awesome-abacatepay#posts)
+   - [Gerando Pagamentos via Pix com a AbacatePay](https://github.com/AbacatePay/awesome-abacatepay#gerando-pagamentos-via-pix-com-a-abacatepay)
 
 
 
