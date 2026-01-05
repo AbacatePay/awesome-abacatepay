@@ -1,5 +1,7 @@
 # Awesome AbacatePay 🥑
 
+<img src="https://res.cloudinary.com/dkok1obj5/image/upload/v1767631413/avo_clhmaf.png" width="100%" alt="abacate open" />
+
 *Uma lista selecionada de itens relacionados a AbacatePay.*
 
 Tem alguma nova ideia e quer adicionar aqui? Apenas faça um [PR](https://github.com/AbacatePay/awesome-abacatepay/pulls) (Pull Request) e adicione ela aqui!
