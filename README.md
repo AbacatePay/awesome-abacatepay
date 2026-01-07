@@ -17,7 +17,7 @@ Tem alguma nova ideia e quer adicionar aqui? Apenas faça um [PR](https://github
 - [A.I](https://github.com/AbacatePay/awesome-abacatepay#ai)
    - [Abacate Chat](https://github.com/AbacatePay/awesome-abacatepay#abacate-chat)
    - [LLMs.txt](https://github.com/AbacatePay/awesome-abacatepay#llmstxt)
-   - [MCP Server](https://www.abacatepay.com/blog/mcpServer)
+   - [MCP Server](https://github.com/AbacatePay/awesome-abacatepay#mcp-server)
 
 - [SDKs](https://github.com/AbacatePay/awesome-abacatepay#sdks)
    - [Node.js](https://github.com/AbacatePay/awesome-abacatepay#nodejs)
