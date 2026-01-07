@@ -17,6 +17,7 @@ Tem alguma nova ideia e quer adicionar aqui? Apenas faça um [PR](https://github
 - [A.I](https://github.com/AbacatePay/awesome-abacatepay#ai)
    - [Abacate Chat](https://github.com/AbacatePay/awesome-abacatepay#abacate-chat)
    - [LLMs.txt](https://github.com/AbacatePay/awesome-abacatepay#llmstxt)
+   - [MCP Server](https://www.abacatepay.com/blog/mcpServer)
 
 - [SDKs](https://github.com/AbacatePay/awesome-abacatepay#sdks)
    - [Node.js](https://github.com/AbacatePay/awesome-abacatepay#nodejs)
@@ -65,6 +66,7 @@ Uma lista de coisas relacionadas a Inteligência Artificial.
 
 - [Abacate Chat](https://chat.abacatepay.com/) - Um assistente de chatbot para ajudar os usuários com dúvidas e tarefas relacionadas ao AbacatePay.
 - [LLMs.txt](https://www.abacatepay.com/llms.txt) - Feito para auxiliar modelos de linguagem e desenvolvedores a integrar-se de forma eficaz com a API da AbacatePay.
+- [MCP Server](https://www.abacatepay.com/blog/mcpServer) - Permite que assistentes de IA criem cobranças, consultem transações e gerenciem clientes em linguagem natural.
 
 ## SDKs
 
