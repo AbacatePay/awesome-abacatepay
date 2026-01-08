@@ -13,6 +13,7 @@ Tem alguma nova ideia e quer adicionar aqui? Apenas faça um [PR](https://github
    - [API](https://github.com/AbacatePay/awesome-abacatepay#api)
    - [CLI](https://github.com/AbacatePay/awesome-abacatepay#cli)
    - [Discord](https://github.com/AbacatePay/awesome-abacatepay#discord)
+   - [YoutTube](https://github.com/AbacatePay/awesome-abacatepay#youtube)
 
 - [A.I](https://github.com/AbacatePay/awesome-abacatepay#ai)
    - [Abacate Chat](https://github.com/AbacatePay/awesome-abacatepay#abacate-chat)
@@ -59,6 +60,7 @@ Links importantes da *Abacate Pay 🥑*.
 - [API](https://api.abacatepay.com) - URL oficial da API da AbacatePay.
 - [CLI](https://github.com/AbacatePay/abacatepay-cli) - AbacatePay CLI para rodar os seus Webhooks localmente. 
 - [Discord](https://discord.com/invite/CP57mm7EFk) - Servidor oficial da AbacatePay.
+- [YouTube](https://www.youtube.com/@abacatepay) - Canal oficial da AbacatePay no YouTube.
 
 ## AI
 
@@ -97,9 +99,8 @@ Uma lista de bibliotecas em TypeScript e Golang que fornece suporte para os tipo
 
 ## Vídeos (YouTube)
 
-URL para o canal da *AbacatePay* no YoutTube e vídeos que citam a *Abacate*.
+Vídeos do YouTube que falam sobre ou demonstram a *AbacatePay*.
 
-- [Canal da AbacatePay](https://www.youtube.com/@abacatepay) - Canal oficial da AbacatePay no YouTube.
 - [Analisando SaaS: 20 milhões em 6 meses](https://youtu.be/JGf1wTuK8Xc?si=Uw1g4QcQjIxZ-jV4) - [Augusto Galego](https://www.youtube.com/@GutoGalego) analisando a AbacatePay.
 - [O que eu acho dos SaaS da Bolha Dev](https://youtu.be/PSfCku4cyVw?si=qFE28zzF_4GA5wlO) - Vídeo onde a [Fernanda Kipper](https://www.youtube.com/@kipperdev) fala sobre e menciona a AbacatePay.
 - [Usei a AbacatePay no meu Micro SaaS e foi incrível](https://youtu.be/9bi7IwrYUAk?si=9VvOCo2Vku1YSPyh) - [Cavalheri Dev](https://www.youtube.com/@CavalheriDev) mostra que ele integrou de forma simples e rápida a AbacatePay em um micro SaaS dele.
