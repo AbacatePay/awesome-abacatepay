@@ -105,6 +105,7 @@ Vídeos do YouTube que falam sobre ou demonstram a *AbacatePay*.
 - [O que eu acho dos SaaS da Bolha Dev](https://youtu.be/PSfCku4cyVw?si=qFE28zzF_4GA5wlO) - Vídeo onde a [Fernanda Kipper](https://www.youtube.com/@kipperdev) fala sobre e menciona a AbacatePay.
 - [Usei a AbacatePay no meu Micro SaaS e foi incrível](https://youtu.be/9bi7IwrYUAk?si=9VvOCo2Vku1YSPyh) - [Cavalheri Dev](https://www.youtube.com/@CavalheriDev) mostra que ele integrou de forma simples e rápida a AbacatePay em um micro SaaS dele.
 - [Usando AbacatePay em .NET API](https://youtu.be/3WFB9ukYRoc?si=nex-Tdir9T1JqRC4) - [Ismael Ash](https://www.youtube.com/@oismaelash) mostra como integrar a AbacatePay usando .NET.
+- [Como esse Saas Transacionou R$ 20 Milhões em 10 Meses (Daniel Lima)](https://youtu.be/OY5ap_6KZco?si=vCKpsuErpcMnyOrg) - [CEO](https://www.instagram.com/daniellimae) da AbacatePay revela como construi a AbacatePay e já transacionou mais de R$20 milhões.
 
 ## Posts
 
