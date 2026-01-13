@@ -44,11 +44,12 @@ Tem alguma nova ideia e quer adicionar aqui? Apenas faça um [PR](https://github
    - [O que eu acho dos SaaS da Bolha Dev](https://github.com/AbacatePay/awesome-abacatepay#o-que-eu-acho-dos-saas-da-bolha-dev)
    - [Usei a AbacatePay no meu Micro SaaS e foi incrível](https://github.com/AbacatePay/awesome-abacatepay#usei-a-abacatepay-no-meu-micro-saas-e-foi-incrivel)
    - [Usando AbacatePay em .NET API](https://github.com/AbacatePay/awesome-abacatepay#usando-abacatepay-em-net-api)
+   - [Como esse Saas Transacionou R$ 20 Milhões em 10 Meses (Daniel Lima)](https://github.com/AbacatePay/awesome-abacatepay#como-esse-saas-transacionou-r$-20-milhoes-em-10-meses-daniel-lima)
+   - [Como integrar com Woocommerce](https://github.com/AbacatePay/awesome-abacatepay#como-integrar-com-woocomerce)
+   - [Como integrar com Lovable](https://github.com/AbacatePay/awesome-abacatepay#como-integrar-com-lovable)
 
 - [Posts](https://github.com/AbacatePay/awesome-abacatepay#posts)
    - [Gerando Pagamentos via Pix com a AbacatePay](https://github.com/AbacatePay/awesome-abacatepay#gerando-pagamentos-via-pix-com-a-abacatepay)
-
-
 
 ## Core
 
@@ -106,6 +107,8 @@ Vídeos do YouTube que falam sobre ou demonstram a *AbacatePay*.
 - [Usei a AbacatePay no meu Micro SaaS e foi incrível](https://youtu.be/9bi7IwrYUAk?si=9VvOCo2Vku1YSPyh) - [Cavalheri Dev](https://www.youtube.com/@CavalheriDev) mostra que ele integrou de forma simples e rápida a AbacatePay em um micro SaaS dele.
 - [Usando AbacatePay em .NET API](https://youtu.be/3WFB9ukYRoc?si=nex-Tdir9T1JqRC4) - [Ismael Ash](https://www.youtube.com/@oismaelash) mostra como integrar a AbacatePay usando .NET.
 - [Como esse Saas Transacionou R$ 20 Milhões em 10 Meses (Daniel Lima)](https://youtu.be/OY5ap_6KZco?si=vCKpsuErpcMnyOrg) - [CEO](https://www.instagram.com/daniellimae) da AbacatePay revela como construi a AbacatePay e já transacionou mais de R$20 milhões.
+- [Como integrar com Woocommerce](https://youtu.be/r0cfpxkSfIM) - Vídeo explicativo de como integrar a AbacatePay com Weoocomerce
+- [Como integrar com Lovable](https://youtu.be/uC1efuEXD_E) - Vídeo explicativo de como integrar a AbacatePay (PIX) com o Lovable
 
 ## Posts
 
