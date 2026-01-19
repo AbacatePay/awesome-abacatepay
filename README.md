@@ -95,8 +95,8 @@ Lista de SDKs oficiais feito pela *AbacatePay* para mobile.
 
 Uma lista de bibliotecas em TypeScript e Golang que fornece suporte para os tipos da AbacatePay API de acordo com a [documentação](https://docs.abacatepay.com).
 
-- [abacate-pay-types](https://github.com/almeidazs/abacate-pay-types) - Fornece suporte para tipagens em TypeScript para API da AbacatePay.
-- [go-abacate-types](https://github.com/almeidazs/go-abacate-types) - Fornece suporte para tipagens (structs e types) em Golang para API da AbacatePay.
+- [abacate-pay-types](https://github.com/almeidazs/ecosystem) - Fornece suporte para tipagens em TypeScript para API da AbacatePay.
+- [go-types](https://github.com/AbacatePay/go-types) - Fornece suporte para tipagens (structs e types) em Golang para API da AbacatePay.
 
 ## Vídeos (YouTube)
 
