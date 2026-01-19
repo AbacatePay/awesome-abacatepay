@@ -20,6 +20,15 @@ Tem alguma nova ideia e quer adicionar aqui? Apenas faça um [PR](https://github
    - [LLMs.txt](https://github.com/AbacatePay/awesome-abacatepay#llmstxt)
    - [MCP Server](https://github.com/AbacatePay/awesome-abacatepay#mcp-server)
 
+- [Temas](https://github.com/AbacatePay/awesome-abacatepay#temas)
+   - [AbacatePay Theme](https://github.com/AbacatePay/awesome-abacatepay#abacatepay-theme)
+
+- [Livrarias](https://github.com/AbacatePay/awesome-abacatepay#livrarias)
+   - [@abacatepay/typebox](https://github.com/AbacatePay/awesome-abacatepay#abacatepay-typebox)
+   - [@abacatepay/zod](https://github.com/AbacatePay/awesome-abacatepay#abacatepay-zod)
+   [@abacatepay/rest](https://github.com/AbacatePay/awesome-abacatepay#abacatepay-rest)
+   [@abacatepay/eslint-plugin](https://github.com/AbacatePay/awesome-abacatepay#abacatepay-eslint-plugin)
+
 - [SDKs](https://github.com/AbacatePay/awesome-abacatepay#sdks)
    - [Node.js](https://github.com/AbacatePay/awesome-abacatepay#nodejs)
    - [Python](https://github.com/AbacatePay/awesome-abacatepay#python)
@@ -70,6 +79,21 @@ Uma lista de coisas relacionadas a Inteligência Artificial.
 - [Abacate Chat](https://chat.abacatepay.com/) - Um assistente de chatbot para ajudar os usuários com dúvidas e tarefas relacionadas ao AbacatePay.
 - [LLMs.txt](https://www.abacatepay.com/llms.txt) - Feito para auxiliar modelos de linguagem e desenvolvedores a integrar-se de forma eficaz com a API da AbacatePay.
 - [MCP Server](https://www.abacatepay.com/blog/mcpServer) - Permite que assistentes de IA criem cobranças, consultem transações e gerenciem clientes em linguagem natural.
+
+## Temas
+
+Uma lista completa de temas (VSCode, Intellij, Neovim etc...) da AbacatePay.
+
+- [AbacatePay Theme](https://github.com/abacatepay/vscode-theme) - Um tema green-first completo com suporte para VS Code, Intellij e Neovim.
+
+## Livrarias
+
+Uma extensa lista de livrarias oficiais e não-oficiais para a AbacatePay.
+
+- [@abacatepay/typebox](https://github.com/almeidazs/ecosystem/tree/main/packages/typebox) - Schemas Typebox para a API da AbacatePay com suporte para OpenAPI.
+- [@abacatepay/zod](https://github.com/almeidazs/ecosystem/tree/main/packages/zod) - Schemas Zod para a API da AbacatePay com suporte para OpenAPI.
+- [@abacatepay/rest](https://github.com/almeidazs/ecosystem/tree/main/packages/rest) - REST client completo para fazer requisições para API da AbacatePay, com suporte para timeout, retry, rate limit etc.
+- [@abacatepay/eslint-plugin](https://github.com/almeidazs/ecosystem/tree/main/packages/typebox) - Plugin oficial da AbacatePay para o ESLint.
 
 ## SDKs
 
