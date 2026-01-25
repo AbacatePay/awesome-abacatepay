@@ -26,8 +26,8 @@ Tem alguma nova ideia e quer adicionar aqui? Apenas faça um [PR](https://github
 - [Livrarias](https://github.com/AbacatePay/awesome-abacatepay#livrarias)
    - [@abacatepay/typebox](https://github.com/AbacatePay/awesome-abacatepay#abacatepay-typebox)
    - [@abacatepay/zod](https://github.com/AbacatePay/awesome-abacatepay#abacatepay-zod)
-   [@abacatepay/rest](https://github.com/AbacatePay/awesome-abacatepay#abacatepay-rest)
-   [@abacatepay/eslint-plugin](https://github.com/AbacatePay/awesome-abacatepay#abacatepay-eslint-plugin)
+   - [@abacatepay/rest](https://github.com/AbacatePay/awesome-abacatepay#abacatepay-rest)
+   - [@abacatepay/eslint-plugin](https://github.com/AbacatePay/awesome-abacatepay#abacatepay-eslint-plugin)
 
 - [SDKs](https://github.com/AbacatePay/awesome-abacatepay#sdks)
    - [Node.js](https://github.com/AbacatePay/awesome-abacatepay#nodejs)
