@@ -99,7 +99,7 @@ Uma extensa lista de livrarias oficiais e não-oficiais para a AbacatePay.
 
 Lista de SDKs oficiais feito pela *AbacatePay* para diversas linguagens de programação.
 
-- [Node.js](https://github.com/AbacatePay/abacatepay-nodejs-sdk) - SDK para Node.js, compatível com TypeScript e ES modules.
+- [Node.js](https://github.com/AbacatePay/ecosystem/tree/main/packages/sdk) - SDK para Node.js, compatível com TypeScript e ES modules.
 - [Python](https://github.com/AbacatePay/abacatepay-python-sdk) - SDK para Python 3.10+, com suporte a async/await e type hints.
 - [Java](https://github.com/AbacatePay/abacatepay-java-sdk) - SDK para Java 8+, compatível com Spring Boot e Jakarta EE.
 - [PHP](https://github.com/AbacatePay/abacatepay-php-sdk) - SDK para PHP 7.4+, com suporte a Composers e PHP standards.
