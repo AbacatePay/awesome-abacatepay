@@ -14,6 +14,7 @@ Tem alguma nova ideia e quer adicionar aqui? Apenas faça um [PR](https://github
    - [CLI](#core)
    - [Discord](#core)
    - [YoutTube](#core)
+   - [Ecossistema](#core)
 
 - [A.I](#ai)
    - [Abacate Chat](#ai)
@@ -71,6 +72,7 @@ Links importantes da *Abacate Pay 🥑*.
 - [CLI](https://github.com/AbacatePay/abacatepay-cli) - AbacatePay CLI para rodar os seus Webhooks localmente. 
 - [Discord](https://discord.com/invite/CP57mm7EFk) - Servidor oficial da AbacatePay.
 - [YouTube](https://www.youtube.com/@abacatepay) - Canal oficial da AbacatePay no YouTube.
+- [Ecossistema](https://github.com/AbacatePay/ecosystem) - Ecossistema oficial da AbacatePay contendo todos os pacotes \@abacatepay.
 
 ## AI
 
@@ -91,10 +93,10 @@ Uma lista completa de temas (VSCode, Intellij, Neovim etc...) da AbacatePay.
 
 Uma extensa lista de livrarias oficiais e não-oficiais para a AbacatePay.
 
-- [@abacatepay/typebox](https://github.com/almeidazs/ecosystem/tree/main/packages/typebox) - Schemas Typebox para a API da AbacatePay com suporte para OpenAPI.
-- [@abacatepay/zod](https://github.com/almeidazs/ecosystem/tree/main/packages/zod) - Schemas Zod para a API da AbacatePay com suporte para OpenAPI.
-- [@abacatepay/rest](https://github.com/almeidazs/ecosystem/tree/main/packages/rest) - REST client completo para fazer requisições para API da AbacatePay, com suporte para timeout, retry, rate limit etc.
-- [@abacatepay/eslint-plugin](https://github.com/almeidazs/ecosystem/tree/main/packages/typebox) - Plugin oficial da AbacatePay para o ESLint.
+- [@abacatepay/typebox](https://github.com/AbacatePay/ecosystem/tree/main/packages/typebox) - Schemas Typebox para a API da AbacatePay com suporte para OpenAPI.
+- [@abacatepay/zod](https://github.com/AbacatePay/ecosystem/tree/main/packages/zod) - Schemas Zod para a API da AbacatePay com suporte para OpenAPI.
+- [@abacatepay/rest](https://github.com/AbacatePay/ecosystem/tree/main/packages/rest) - REST client completo para fazer requisições para API da AbacatePay, com suporte para timeout, retry, rate limit etc.
+- [@abacatepay/eslint-plugin](https://github.com/AbacatePay/ecosystem/tree/main/packages/typebox) - Plugin oficial da AbacatePay para o ESLint.
 
 ## SDKs
 
@@ -120,7 +122,7 @@ Lista de SDKs oficiais feito pela *AbacatePay* para mobile.
 
 Uma lista de bibliotecas em TypeScript e Golang que fornece suporte para os tipos da AbacatePay API de acordo com a [documentação](https://docs.abacatepay.com).
 
-- [abacate-pay-types](https://github.com/almeidazs/ecosystem) - Fornece suporte para tipagens em TypeScript para API da AbacatePay.
+- [abacate-pay-types](https://github.com/AbacatePay/ecosystem) - Fornece suporte para tipagens em TypeScript para API da AbacatePay.
 - [go-types](https://github.com/AbacatePay/go-types) - Fornece suporte para tipagens (structs e types) em Golang para API da AbacatePay.
 
 ## Vídeos (YouTube)
