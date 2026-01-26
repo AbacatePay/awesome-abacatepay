@@ -1,10 +1,14 @@
+<div align="center">
+
 # Awesome AbacatePay 🥑
 
-<img src="https://res.cloudinary.com/dkok1obj5/image/upload/v1767631413/avo_clhmaf.png" width="100%" alt="abacate open" />
+*Lista oficial de projetos, ferramentas, SDKs e recursos do ecossistema AbacatePay.*
 
-*Uma lista selecionada de itens relacionados a AbacatePay.*
+Quer contribuir? Abra um PR e adicione seu projeto, conteúdo ou ferramenta ao ecossistema.
 
-Tem alguma nova ideia e quer adicionar aqui? Apenas faça um [PR](https://github.com/AbacatePay/awesome-abacatepay/pulls) (Pull Request) e adicione ela aqui!
+</div>
+
+<img src="https://res.cloudinary.com/dkok1obj5/image/upload/v1767631413/avo_clhmaf.png" width="100%" alt="AbacatePay Open Source"/>
 
 - [Core](#core)
    - [Documentação](#core)
@@ -13,7 +17,7 @@ Tem alguma nova ideia e quer adicionar aqui? Apenas faça um [PR](https://github
    - [API](#core)
    - [CLI](#core)
    - [Discord](#core)
-   - [YoutTube](#core)
+   - [YouTube](#core)
    - [Ecossistema](#core)
 
 - [A.I](#ai)
@@ -96,11 +100,11 @@ Uma extensa lista de livrarias oficiais e não-oficiais para a AbacatePay.
 - [@abacatepay/typebox](https://github.com/AbacatePay/ecosystem/tree/main/packages/typebox) - Schemas Typebox para a API da AbacatePay com suporte para OpenAPI.
 - [@abacatepay/zod](https://github.com/AbacatePay/ecosystem/tree/main/packages/zod) - Schemas Zod para a API da AbacatePay com suporte para OpenAPI.
 - [@abacatepay/rest](https://github.com/AbacatePay/ecosystem/tree/main/packages/rest) - REST client completo para fazer requisições para API da AbacatePay, com suporte para timeout, retry, rate limit etc.
-- [@abacatepay/eslint-plugin](https://github.com/AbacatePay/ecosystem/tree/main/packages/typebox) - Plugin oficial da AbacatePay para o ESLint.
+- [@abacatepay/eslint-plugin](https://github.com/AbacatePay/ecosystem/tree/main/packages/eslint-plugin) - Plugin oficial da AbacatePay para o ESLint.
 
 ## SDKs
 
-Lista de SDKs oficiais feito pela *AbacatePay* para diversas linguagens de programação.
+Lista de SDKs oficiais mantidos pela *AbacatePay* para diversas linguagens de programação.
 
 - [Node.js](https://github.com/AbacatePay/ecosystem/tree/main/packages/sdk) - SDK para Node.js, compatível com TypeScript e ES modules.
 - [Python](https://github.com/AbacatePay/abacatepay-python-sdk) - SDK para Python 3.10+, com suporte a async/await e type hints.
@@ -113,16 +117,16 @@ Lista de SDKs oficiais feito pela *AbacatePay* para diversas linguagens de progr
 
 ## SDKs (Mobile)
 
-Lista de SDKs oficiais feito pela *AbacatePay* para mobile.
+Lista de SDKs oficiais mantidos pela *AbacatePay* para mobile.
 
 - [Kotlin](https://github.com/AbacatePay/abacatepay-kotlin-sdk) - SDK para Kotlin, ideal para aplicativos Android moderno.
-- [Swift](https://github.com/AbacatePay/abacatepay-swift-sdk) - SDK para Switft, ideal para aplicativos iOS e macOS.
+- [Swift](https://github.com/AbacatePay/abacatepay-swift-sdk) - SDK para Swift, ideal para aplicativos iOS e macOS.
 
 ## Tipagens para AbacatePay API
 
 Uma lista de bibliotecas em TypeScript e Golang que fornece suporte para os tipos da AbacatePay API de acordo com a [documentação](https://docs.abacatepay.com).
 
-- [abacate-pay-types](https://github.com/AbacatePay/ecosystem) - Fornece suporte para tipagens em TypeScript para API da AbacatePay.
+- [@abacatepay/types](https://github.com/AbacatePay/ecosystem/tree/main/packages/types) - Fornece suporte para tipagens em TypeScript para API da AbacatePay.
 - [go-types](https://github.com/AbacatePay/go-types) - Fornece suporte para tipagens (structs e types) em Golang para API da AbacatePay.
 
 ## Vídeos (YouTube)
@@ -134,7 +138,7 @@ Vídeos do YouTube que falam sobre ou demonstram a *AbacatePay*.
 - [Usei a AbacatePay no meu Micro SaaS e foi incrível](https://youtu.be/9bi7IwrYUAk?si=9VvOCo2Vku1YSPyh) - [Cavalheri Dev](https://www.youtube.com/@CavalheriDev) mostra que ele integrou de forma simples e rápida a AbacatePay em um micro SaaS dele.
 - [Usando AbacatePay em .NET API](https://youtu.be/3WFB9ukYRoc?si=nex-Tdir9T1JqRC4) - [Ismael Ash](https://www.youtube.com/@oismaelash) mostra como integrar a AbacatePay usando .NET.
 - [Como esse Saas Transacionou R$ 20 Milhões em 10 Meses (Daniel Lima)](https://youtu.be/OY5ap_6KZco?si=vCKpsuErpcMnyOrg) - [CEO](https://www.instagram.com/daniellimae) da AbacatePay revela como construi a AbacatePay e já transacionou mais de R$20 milhões.
-- [Como integrar com Woocommerce](https://youtu.be/r0cfpxkSfIM) - Vídeo explicativo de como integrar a AbacatePay com Weoocomerce
+- [Como integrar com Woocommerce](https://youtu.be/r0cfpxkSfIM) - Vídeo explicativo de como integrar a AbacatePay com Woocomerce
 - [Como integrar com Lovable](https://youtu.be/uC1efuEXD_E) - Vídeo explicativo de como integrar a AbacatePay (PIX) com o Lovable
 
 ## Posts
