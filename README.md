@@ -35,6 +35,11 @@ Quer contribuir? Abra um PR e adicione seu projeto, conteúdo ou ferramenta ao e
    - [@abacatepay/eslint-plugin](#livrarias)
 
 - [Webhooks](#webhooks)
+   - [@abacatepay/supabase](#webhooks)
+   - [@abacatepay/elysia](#webhooks)
+   - [@abacatepay/express](#webhooks)
+   - [@abacatepay/fastify](#webhooks)
+   - [@abacatepay/hono](#webhooks)
 
 - [SDKs](#sdks)
    - [Node.js](#sdks)
