@@ -34,6 +34,8 @@ Quer contribuir? Abra um PR e adicione seu projeto, conteúdo ou ferramenta ao e
    - [@abacatepay/rest](#livrarias)
    - [@abacatepay/eslint-plugin](#livrarias)
 
+- [Webhooks](#webhooks)
+
 - [SDKs](#sdks)
    - [Node.js](#sdks)
    - [Python](#sdks)
@@ -101,6 +103,16 @@ Uma extensa lista de livrarias oficiais e não-oficiais para a AbacatePay.
 - [@abacatepay/zod](https://github.com/AbacatePay/ecosystem/tree/main/packages/zod) - Schemas Zod para a API da AbacatePay com suporte para OpenAPI.
 - [@abacatepay/rest](https://github.com/AbacatePay/ecosystem/tree/main/packages/rest) - REST client completo para fazer requisições para API da AbacatePay, com suporte para timeout, retry, rate limit etc.
 - [@abacatepay/eslint-plugin](https://github.com/AbacatePay/ecosystem/tree/main/packages/eslint-plugin) - Plugin oficial da AbacatePay para o ESLint.
+
+## Webhooks
+
+Uma lista extensa de livrarias que você pode usar para integrar facilmente com os Webhooks da AbacatePay
+
+- [@abacatepay/supabase](https://github.com/AbacatePay/ecosystem/tree/main/packages/supabase) - Integração oficial da AbacatePay com o Supabase para receber Webhooks de forma simples.
+- [@abacatepay/elysia](https://github.com/AbacatePay/ecosystem/tree/main/packages/elysia) - Integração oficial da AbacatePay com o Elysia para receber Webhooks de forma simples.
+- [@abacatepay/express](https://github.com/AbacatePay/ecosystem/tree/main/packages/express) - Integração oficial da AbacatePay com o Express para receber Webhooks de forma simples.
+- [@abacatepay/fastify](https://github.com/AbacatePay/ecosystem/tree/main/packages/fastify) - Integração oficial da AbacatePay com o Fastify para receber Webhooks de forma simples.
+- [@abacatepay/hono](https://github.com/AbacatePay/ecosystem/tree/main/packages/hono) - Integração oficial da AbacatePay com o Hono para receber Webhooks de forma simples.
 
 ## SDKs
 
