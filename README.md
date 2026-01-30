@@ -41,6 +41,9 @@ Quer contribuir? Abra um PR e adicione seu projeto, conteúdo ou ferramenta ao e
    - [@abacatepay/fastify](#webhooks)
    - [@abacatepay/hono](#webhooks)
 
+- [Adapters](#adapters)
+   - [@abacatepay/adapters](#adapters)
+
 - [SDKs](#sdks)
    - [Node.js](#sdks)
    - [Python](#sdks)
@@ -145,6 +148,12 @@ Uma lista de bibliotecas em TypeScript e Golang que fornece suporte para os tipo
 
 - [@abacatepay/types](https://github.com/AbacatePay/ecosystem/tree/main/packages/types) - Fornece suporte para tipagens em TypeScript para API da AbacatePay.
 - [go-types](https://github.com/AbacatePay/go-types) - Fornece suporte para tipagens (structs e types) em Golang para API da AbacatePay.
+
+## Adapters
+
+Uma lista de adaptadores com validação e parse de eventos vindo de webhooks.
+
+- [@abacatepay/adapters](https://github.com/AbacatePay/ecosystem/tree/main/packages/adapters) - Utilitários oficiais da AbacatePay para construir adapters de Webhooks de forma consistente, segura e totalmente tipada, independentemente do framework.
 
 ## Vídeos (YouTube)
 
