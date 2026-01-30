@@ -76,9 +76,12 @@ Quer contribuir? Abra um PR e adicione seu projeto, conteúdo ou ferramenta ao e
 - [Posts](#posts)
    - [Gerando Pagamentos via Pix com a AbacatePay](#posts)
 
+<div align="center">
+
 ## Ecossistema
 
 Links importantes da *Abacate Pay 🥑*. 
+</div>
 
 - [Documentação](https://docs.abacatepay.com) - Documentação oficial da API da AbacatePay.
 - [Website Oficial](https://abacatepay.com) - Website oficial.
@@ -89,33 +92,45 @@ Links importantes da *Abacate Pay 🥑*.
 - [YouTube](https://www.youtube.com/@abacatepay) - Canal oficial da AbacatePay no YouTube.
 - [Ecossistema](https://github.com/AbacatePay/ecosystem) - Ecossistema oficial da AbacatePay contendo todos os pacotes \@abacatepay.
 
+<div align="center">
+
 ## IA
 
 Uma lista de coisas relacionadas a Inteligência Artificial.
+</div>
 
 - [Abacate Chat](https://chat.abacatepay.com/) - Um assistente de chatbot para ajudar os usuários com dúvidas e tarefas relacionadas ao AbacatePay.
 - [LLMs.txt](https://www.abacatepay.com/llms.txt) - Feito para auxiliar modelos de linguagem e desenvolvedores a integrar-se de forma eficaz com a API da AbacatePay.
 - [MCP Server](https://www.abacatepay.com/blog/mcpServer) - Permite que assistentes de IA criem cobranças, consultem transações e gerenciem clientes em linguagem natural.
 - [SKILLS.md](https://github.com/AbacatePay/skills) - Contexto especializado, regras e exemplos para transformar agentes de IA (Cursor, Claude, Copilot etc.) em especialistas AbacatePay.
 
+<div align="center">
+
 ## Temas
 
 Uma lista completa de temas (VSCode, Intellij, Neovim etc...) da AbacatePay.
+</div>
 
 - [AbacatePay Theme](https://github.com/abacatepay/vscode-theme) - Um tema green-first completo com suporte para VS Code, Intellij e Neovim.
+
+<div align="center">
 
 ## Livrarias
 
 Uma extensa lista de livrarias oficiais e não-oficiais para a AbacatePay.
+</div>
 
 - [@abacatepay/typebox](https://github.com/AbacatePay/ecosystem/tree/main/packages/typebox) - Schemas Typebox para a API da AbacatePay com suporte para OpenAPI.
 - [@abacatepay/zod](https://github.com/AbacatePay/ecosystem/tree/main/packages/zod) - Schemas Zod para a API da AbacatePay com suporte para OpenAPI.
 - [@abacatepay/rest](https://github.com/AbacatePay/ecosystem/tree/main/packages/rest) - REST client completo para fazer requisições para API da AbacatePay, com suporte para timeout, retry, rate limit etc.
 - [@abacatepay/eslint-plugin](https://github.com/AbacatePay/ecosystem/tree/main/packages/eslint-plugin) - Plugin oficial da AbacatePay para o ESLint.
 
+<div align="center">
+
 ## Webhooks
 
 Uma lista extensa de livrarias que você pode usar para integrar facilmente com os Webhooks da AbacatePay
+</div>
 
 - [@abacatepay/supabase](https://github.com/AbacatePay/ecosystem/tree/main/packages/supabase) - Integração oficial da AbacatePay com o Supabase para receber Webhooks de forma simples.
 - [@abacatepay/elysia](https://github.com/AbacatePay/ecosystem/tree/main/packages/elysia) - Integração oficial da AbacatePay com o Elysia para receber Webhooks de forma simples.
@@ -123,9 +138,12 @@ Uma lista extensa de livrarias que você pode usar para integrar facilmente com 
 - [@abacatepay/fastify](https://github.com/AbacatePay/ecosystem/tree/main/packages/fastify) - Integração oficial da AbacatePay com o Fastify para receber Webhooks de forma simples.
 - [@abacatepay/hono](https://github.com/AbacatePay/ecosystem/tree/main/packages/hono) - Integração oficial da AbacatePay com o Hono para receber Webhooks de forma simples.
 
+<div align="center">
+
 ## SDKs
 
 Lista de SDKs oficiais mantidos pela *AbacatePay* para diversas linguagens de programação.
+</div>
 
 - [Node.js](https://github.com/AbacatePay/ecosystem/tree/main/packages/sdk) - SDK para Node.js, compatível com TypeScript e ES modules.
 - [Python](https://github.com/AbacatePay/abacatepay-python-sdk) - SDK para Python 3.10+, com suporte a async/await e type hints.
@@ -136,29 +154,41 @@ Lista de SDKs oficiais mantidos pela *AbacatePay* para diversas linguagens de pr
 - [Rust](https://github.com/AbacatePay/abacatepay-rust-sdk) - SDK para Rust, com foco em performance e segurança.
 - [Elixir](https://github.com/AbacatePay/abacatepay-elixir-sdk) - SDK para Elixir, ideal para aplicações escaláveis e distribuídas.
 
+<div align="center">
+
 ## SDKs (Mobile)
 
 Lista de SDKs oficiais mantidos pela *AbacatePay* para mobile.
+</div>
 
 - [Kotlin](https://github.com/AbacatePay/abacatepay-kotlin-sdk) - SDK para Kotlin, ideal para aplicativos Android moderno.
 - [Swift](https://github.com/AbacatePay/abacatepay-swift-sdk) - SDK para Swift, ideal para aplicativos iOS e macOS.
 
+<div align="center">
+
 ## Tipagens para AbacatePay API
 
 Uma lista de bibliotecas em *TypeScript* e *Golang* que fornece suporte para os tipos da AbacatePay API de acordo com a [documentação](https://docs.abacatepay.com).
+</div>
 
 - [@abacatepay/types](https://github.com/AbacatePay/ecosystem/tree/main/packages/types) - Fornece suporte para tipagens em TypeScript para API da AbacatePay.
 - [go-types](https://github.com/AbacatePay/go-types) - Fornece suporte para tipagens (structs e types) em Golang para API da AbacatePay.
 
+<div align="center">
+
 ## Adaptadores
 
 Uma lista de adaptadores com validação e parse de eventos vindo de webhooks.
+</div>
 
 - [@abacatepay/adapters](https://github.com/AbacatePay/ecosystem/tree/main/packages/adapters) - Utilitários oficiais da AbacatePay para construir adapters de Webhooks de forma consistente, segura e totalmente tipada, independentemente do framework.
 
+<div align="center">
+
 ## Vídeos (YouTube)
 
-Vídeos do YouTube que falam sobre ou demonstram a *AbacatePay*.
+Vídeos do *YouTube* que falam sobre ou demonstram a *AbacatePay*.
+</div>
 
 - [Analisando SaaS: 20 milhões em 6 meses](https://youtu.be/JGf1wTuK8Xc?si=Uw1g4QcQjIxZ-jV4) - [Augusto Galego](https://www.youtube.com/@GutoGalego) analisando a AbacatePay.
 - [O que eu acho dos SaaS da Bolha Dev](https://youtu.be/PSfCku4cyVw?si=qFE28zzF_4GA5wlO) - Vídeo onde a [Fernanda Kipper](https://www.youtube.com/@kipperdev) fala sobre e menciona a AbacatePay.
@@ -168,8 +198,11 @@ Vídeos do YouTube que falam sobre ou demonstram a *AbacatePay*.
 - [Como integrar com Woocommerce](https://youtu.be/r0cfpxkSfIM) - Vídeo explicativo de como integrar a AbacatePay com Woocomerce
 - [Como integrar com Lovable](https://youtu.be/uC1efuEXD_E) - Vídeo explicativo de como integrar a AbacatePay (PIX) com o Lovable
 
+<div align="center">
+
 ## Posts
 
 Uma lista de posts oficias e não oficiais relacionadas com a *AbacatePay*.
+</div>
 
 - [Gerando Pagamentos via Pix com a AbacatePay](https://wiliamvj.com/posts/abacatepay/) - Um post que fala sobre como gerar pagamentos via Pix com a AbacatePay em Golang.
