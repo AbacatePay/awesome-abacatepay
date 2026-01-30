@@ -145,7 +145,7 @@ Lista de SDKs oficiais mantidos pela *AbacatePay* para mobile.
 
 ## Tipagens para AbacatePay API
 
-Uma lista de bibliotecas em TypeScript e Golang que fornece suporte para os tipos da AbacatePay API de acordo com a [documentação](https://docs.abacatepay.com).
+Uma lista de bibliotecas em *TypeScript* e *Golang* que fornece suporte para os tipos da AbacatePay API de acordo com a [documentação](https://docs.abacatepay.com).
 
 - [@abacatepay/types](https://github.com/AbacatePay/ecosystem/tree/main/packages/types) - Fornece suporte para tipagens em TypeScript para API da AbacatePay.
 - [go-types](https://github.com/AbacatePay/go-types) - Fornece suporte para tipagens (structs e types) em Golang para API da AbacatePay.
@@ -169,5 +169,7 @@ Vídeos do YouTube que falam sobre ou demonstram a *AbacatePay*.
 - [Como integrar com Lovable](https://youtu.be/uC1efuEXD_E) - Vídeo explicativo de como integrar a AbacatePay (PIX) com o Lovable
 
 ## Posts
+
+Uma lista de posts oficias e não oficiais relacionadas com a *AbacatePay*.
 
 - [Gerando Pagamentos via Pix com a AbacatePay](https://wiliamvj.com/posts/abacatepay/) - Um post que fala sobre como gerar pagamentos via Pix com a AbacatePay em Golang.
