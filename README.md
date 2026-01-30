@@ -60,6 +60,9 @@ Quer contribuir? Abra um PR e adicione seu projeto, conteúdo ou ferramenta ao e
    - [@abacatepay/types](#tipagens-para-abacatepay-api)
    - [go-types](#tipagens-para-abacatepay-api)
 
+- [Auth](#auth)
+   - [@abacatepay/better-auth](#auth)
+
 - [Adaptadores](#adaptadores)
    - [@abacatepay/adapters](#adaptadores)
 
@@ -175,6 +178,16 @@ Uma lista de bibliotecas em *TypeScript* e *Golang* que fornece suporte para os 
 
 - [@abacatepay/types](https://github.com/AbacatePay/ecosystem/tree/main/packages/types) - Fornece suporte para tipagens em TypeScript para API da AbacatePay.
 - [go-types](https://github.com/AbacatePay/go-types) - Fornece suporte para tipagens (structs e types) em Golang para API da AbacatePay.
+
+<div align="center">
+
+## Auth
+
+Lista de plugins para a *AbacatePay* envolvendo autenticações.
+
+</div>
+
+- [@abacatepay/better-auth](https://www.npmjs.com/package/@abacatepay/better-auth) - Plugin *oficial* da AbacatePay para integrar com o better-auth.
 
 <div align="center">
 
