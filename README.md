@@ -41,8 +41,6 @@ Quer contribuir? Abra um PR e adicione seu projeto, conteúdo ou ferramenta ao e
    - [@abacatepay/fastify](#webhooks)
    - [@abacatepay/hono](#webhooks)
 
-- [Adapters](#adapters)
-   - [@abacatepay/adapters](#adapters)
 
 - [SDKs](#sdks)
    - [Node.js](#sdks)
@@ -61,6 +59,9 @@ Quer contribuir? Abra um PR e adicione seu projeto, conteúdo ou ferramenta ao e
 - [Tipagens para AbacatePay API](#tipagens-para-abacatepay-api)
    - [TypeScript](#tipagens-para-abacatepay-api)
    - [Golang](#tipagens-para-abacatepay-api)
+
+- [Adapters](#adapters)
+   - [@abacatepay/adapters](#adapters)
 
 - [Vídeos (YouTube)](#vídeos-youtube)
    - [Canal da AbacatePay](#vídeos-youtube)
