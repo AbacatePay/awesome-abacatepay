@@ -10,21 +10,21 @@ Quer contribuir? Abra um PR e adicione seu projeto, conteúdo ou ferramenta ao e
 
 <img src="https://res.cloudinary.com/dkok1obj5/image/upload/v1767631413/avo_clhmaf.png" width="100%" alt="AbacatePay Open Source"/>
 
-- [Core](#core)
-   - [Documentação](#core)
-   - [Website Oficial](#core)
-   - [AbacatePay Twitter/X](#core)
-   - [API](#core)
-   - [CLI](#core)
-   - [Discord](#core)
-   - [YouTube](#core)
-   - [Ecossistema](#core)
+- [Ecossistema](#ecossistema)
+   - [Documentação](#ecossistema)
+   - [Website Oficial](#ecossistema)
+   - [AbacatePay Twitter/X](#ecossistema)
+   - [API](#ecossistema)
+   - [CLI](#ecossistema)
+   - [Discord](#ecossistema)
+   - [YouTube](#ecossistema)
+   - [Ecossistema](#ecossistema)
 
-- [A.I](#ai)
-   - [Abacate Chat](#ai)
-   - [LLMs.txt](#ai)
-   - [MCP Server](#ai)
-   - [SKILLS.md](#ai)
+- [I.A](#ia)
+   - [Abacate Chat](#ia)
+   - [LLMs.txt](#ia)
+   - [MCP Server](#ia)
+   - [SKILLS.md](#ia)
 
 - [Temas](#temas)
    - [AbacatePay Theme](#temas)
@@ -60,8 +60,8 @@ Quer contribuir? Abra um PR e adicione seu projeto, conteúdo ou ferramenta ao e
    - [@abacatepay/types](#tipagens-para-abacatepay-api)
    - [go-types](#tipagens-para-abacatepay-api)
 
-- [Adapters](#adapters)
-   - [@abacatepay/adapters](#adapters)
+- [Adaptadores](#adaptadores)
+   - [@abacatepay/adapters](#adaptadores)
 
 - [Vídeos (YouTube)](#vídeos-youtube)
    - [Canal da AbacatePay](#vídeos-youtube)
@@ -76,7 +76,7 @@ Quer contribuir? Abra um PR e adicione seu projeto, conteúdo ou ferramenta ao e
 - [Posts](#posts)
    - [Gerando Pagamentos via Pix com a AbacatePay](#posts)
 
-## Core
+## Ecossistema
 
 Links importantes da *Abacate Pay 🥑*. 
 
@@ -89,7 +89,7 @@ Links importantes da *Abacate Pay 🥑*.
 - [YouTube](https://www.youtube.com/@abacatepay) - Canal oficial da AbacatePay no YouTube.
 - [Ecossistema](https://github.com/AbacatePay/ecosystem) - Ecossistema oficial da AbacatePay contendo todos os pacotes \@abacatepay.
 
-## AI
+## IA
 
 Uma lista de coisas relacionadas a Inteligência Artificial.
 
@@ -150,7 +150,7 @@ Uma lista de bibliotecas em *TypeScript* e *Golang* que fornece suporte para os 
 - [@abacatepay/types](https://github.com/AbacatePay/ecosystem/tree/main/packages/types) - Fornece suporte para tipagens em TypeScript para API da AbacatePay.
 - [go-types](https://github.com/AbacatePay/go-types) - Fornece suporte para tipagens (structs e types) em Golang para API da AbacatePay.
 
-## Adapters
+## Adaptadores
 
 Uma lista de adaptadores com validação e parse de eventos vindo de webhooks.
 
