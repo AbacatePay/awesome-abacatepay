@@ -63,6 +63,9 @@ Quer contribuir? Abra um PR e adicione seu projeto, conteúdo ou ferramenta ao e
 - [Adaptadores](#adaptadores)
    - [@abacatepay/adapters](#adaptadores)
 
+- [Linters](#linters)
+   - [@abacatepay/eslint-plugin](#linters)
+
 - [Vídeos (YouTube)](#vídeos-youtube)
    - [Canal da AbacatePay](#vídeos-youtube)
    - [Analisando SaaS: 20 milhões em 6 meses](#vídeos-youtube)
@@ -123,7 +126,6 @@ Uma extensa lista de livrarias oficiais e não-oficiais para a AbacatePay.
 - [@abacatepay/typebox](https://github.com/AbacatePay/ecosystem/tree/main/packages/typebox) - Schemas Typebox para a API da AbacatePay com suporte para OpenAPI.
 - [@abacatepay/zod](https://github.com/AbacatePay/ecosystem/tree/main/packages/zod) - Schemas Zod para a API da AbacatePay com suporte para OpenAPI.
 - [@abacatepay/rest](https://github.com/AbacatePay/ecosystem/tree/main/packages/rest) - REST client completo para fazer requisições para API da AbacatePay, com suporte para timeout, retry, rate limit etc.
-- [@abacatepay/eslint-plugin](https://github.com/AbacatePay/ecosystem/tree/main/packages/eslint-plugin) - Plugin oficial da AbacatePay para o ESLint.
 
 <div align="center">
 
@@ -182,6 +184,15 @@ Uma lista de adaptadores com validação e parse de eventos vindo de webhooks.
 </div>
 
 - [@abacatepay/adapters](https://github.com/AbacatePay/ecosystem/tree/main/packages/adapters) - Utilitários oficiais da AbacatePay para construir adapters de Webhooks de forma consistente, segura e totalmente tipada, independentemente do framework.
+
+<div align="center">
+
+## Linters
+
+Lista de livrarias e plugins relacionadas a linters (ESLint, Biome, Oxc etc) e a *AbacatePay*.
+</div>
+
+- [@abacatepay/eslint-plugin](https://github.com/AbacatePay/ecosystem/tree/main/packages/eslint-plugin) - Plugin oficial da AbacatePay para o ESLint.
 
 <div align="center">
 
