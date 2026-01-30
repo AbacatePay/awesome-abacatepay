@@ -57,8 +57,8 @@ Quer contribuir? Abra um PR e adicione seu projeto, conteúdo ou ferramenta ao e
    - [Swift](#sdks-mobile)
 
 - [Tipagens para AbacatePay API](#tipagens-para-abacatepay-api)
-   - [TypeScript](#tipagens-para-abacatepay-api)
-   - [Golang](#tipagens-para-abacatepay-api)
+   - [@abacatepay/types](#tipagens-para-abacatepay-api)
+   - [go-types](#tipagens-para-abacatepay-api)
 
 - [Adapters](#adapters)
    - [@abacatepay/adapters](#adapters)
