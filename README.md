@@ -100,7 +100,7 @@ Links importantes da *Abacate Pay 🥑*.
 
 <div align="center">
 
-## IA
+## I.A
 
 Uma lista de coisas relacionadas a Inteligência Artificial.
 </div>
